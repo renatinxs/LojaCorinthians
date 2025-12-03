@@ -1,0 +1,94 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+
+
+/*produto*/
+.cardProduto {
+    text-decoration: none;
+    color: black;
+}
+
+.produtoBody {
+    width: 300px;
+    border-radius: 12px;
+    overflow: hidden;
+    background: white;
+    padding-bottom: 15px;
+    border: 1px solid #e0e0e0;
+    transition: all .25s ease-in-out;
+    position: relative;
+}
+
+    .produtoBody:hover {
+        transform: translateY(-6px);
+        box-shadow: 0px 8px 20px rgba(0,0,0,0.15);
+    }
+
+.produtoImg {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    border-bottom: 1px solid #ddd;
+}
+
+.badgeEntrega {
+    position: absolute;
+    background: #000;
+    color: white;
+    padding: 5px 12px;
+    font-size: 12px;
+    border-radius: 0 0 8px 0;
+    z-index: 2;
+}
+
+.infoProduto {
+    padding: 10px 15px;
+}
+
+.produtoNome {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.produtoDe {
+    color: black;
+    margin: 0;
+}
+
+.produtoPor {
+    color: #111; 
+    font-weight: bold;
+    margin: 5px 0 10px 0;
+}
+
+.produtoParcelas h5 {
+    color: #555; 
+}
+
+.produtos {
+    display: flex;
+    flex-wrap: wrap;
+}
