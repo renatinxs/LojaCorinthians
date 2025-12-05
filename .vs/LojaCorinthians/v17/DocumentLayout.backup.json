@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|c:\\users\\renato\\desktop\\lojacorinthians\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|c:\\users\\renato\\desktop\\lojacorinthians\\webapplication1\\views\\produto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\produto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|c:\\users\\renato\\desktop\\lojacorinthians\\webapplication1\\views\\produto\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\produto\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|c:\\users\\renato\\desktop\\lojacorinthians\\webapplication1\\views\\produto\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\produto\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|c:\\users\\renato\\desktop\\lojacorinthians\\webapplication1\\views\\produto\\listar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\produto\\listar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|c:\\users\\renato\\desktop\\lojacorinthians\\webapplication1\\views\\shared\\_produto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_produto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|c:\\users\\renato\\desktop\\lojacorinthians\\webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|c:\\users\\renato\\desktop\\lojacorinthians\\webapplication1\\views\\shared\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|c:\\users\\renato\\desktop\\lojacorinthians\\webapplication1\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,24 +47,8 @@
       "RelativeMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|c:\\users\\renato\\desktop\\lojacorinthians\\webapplication1\\views\\produto\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\produto\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|c:\\users\\renato\\desktop\\lojacorinthians\\webapplication1\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|c:\\users\\renato\\desktop\\lojacorinthians\\webapplication1\\views\\produto\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\produto\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|c:\\users\\renato\\desktop\\lojacorinthians\\webapplication1\\views\\produto\\listar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\produto\\listar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|c:\\users\\renato\\desktop\\lojacorinthians\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{654A3B93-D935-416F-86C8-549D6E3FFB39}|WebApplication1\\WebApplication1.csproj|c:\\users\\renato\\desktop\\lojacorinthians\\webapplication1\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "_Produto.cshtml",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Shared\\_Produto.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Produto.cshtml",
@@ -82,12 +82,11 @@
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Produto.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T02:26:53.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T02:26:53.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml.css",
@@ -95,12 +94,11 @@
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-30T02:22:03.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T02:22:03.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Produto\\Editar.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Produto\\Editar.cshtml",
@@ -108,25 +106,24 @@
               "RelativeToolTip": "WebApplication1\\Views\\Produto\\Editar.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T02:21:45.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T02:21:45.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Editar.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Produto\\Editar.cshtml.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Produto\\Editar.cshtml.cs",
               "ToolTip": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Produto\\Editar.cshtml.cs",
               "RelativeToolTip": "WebApplication1\\Views\\Produto\\Editar.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T02:21:43.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Listar.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Produto\\Listar.cshtml.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Produto\\Listar.cshtml.cs",
@@ -134,38 +131,36 @@
               "RelativeToolTip": "WebApplication1\\Views\\Produto\\Listar.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T02:21:41.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T02:21:41.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Listar.cshtml",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Produto\\Listar.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Produto\\Listar.cshtml",
               "ToolTip": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Produto\\Listar.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Produto\\Listar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T02:21:36.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T02:21:36.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Cadastrar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Shared\\Cadastrar.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Cadastrar.cshtml",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Shared\\Cadastrar.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\Cadastrar.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Produto\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Produto\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Produto\\Cadastrar.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Produto\\Cadastrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-30T02:13:21.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -173,12 +168,11 @@
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T02:13:19.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T02:13:19.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
@@ -186,8 +180,7 @@
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAEcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T02:04:01.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T02:04:01.501Z"
             },
             {
               "$type": "Document",
@@ -199,12 +192,11 @@
               "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-30T02:00:25.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T02:00:25.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "_Carrossel.cshtml",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Shared\\_Carrossel.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Carrossel.cshtml",
@@ -212,8 +204,7 @@
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Carrossel.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAwBcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T01:57:11.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T01:57:11.814Z"
             },
             {
               "$type": "Document",
@@ -225,12 +216,11 @@
               "RelativeToolTip": "WebApplication1\\Models\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T01:52:01.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T01:52:01.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProdutoController.cs",
@@ -238,8 +228,7 @@
               "RelativeToolTip": "WebApplication1\\Controllers\\ProdutoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T01:51:39.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T01:51:39.985Z"
             },
             {
               "$type": "Document",
@@ -255,13 +244,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Renato\\Desktop\\LojaCorinthians\\WebApplication1\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-30T01:50:51.877Z",
               "EditorCaption": ""
